@@ -1,0 +1,23 @@
+#wrapper {
+    width: 875px;
+    background-color: grey;
+    padding: 5px;
+}
+
+h2 {
+    margin-left:5px;
+}
+
+img {
+    width: 200px;
+    border: solid black;
+    margin: 5px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    margin-left:5px;
+    margin-top: 5px;
+}
